@@ -3,7 +3,7 @@
 <html>
   <body>
     <div>
-      <h1>Dhairy Jain</h1>
+      <h1>Abhay Singh</h1>
       <p>Web Developer | Creative Thinker </p>
     </div>
     <div>
