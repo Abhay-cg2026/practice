@@ -3,7 +3,7 @@
 <html>
   <body>
     <div>
-      <h1>Abhay Singh</h1>
+      <h1>Dhairy Jain</h1>
       <p>Web Developer | Creative Thinker </p>
     </div>
     <div>
@@ -13,10 +13,6 @@
       <h2>About me</h2>
       <p>Hello! I'm a passionate web developer learning HTML basics. I enjoy coding and building creative projects.</p>
     </div>
-    <div>
-            <h2>Connect with Me</h2>
-            <a href="https:twitter.com" target="_blank">Twitter</a>
-            <a href="https:instagram.com"btw_im.abhay="_blank">instagram</a>
-        </div> 
+  
   </body>
 </html>
